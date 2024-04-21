@@ -10,9 +10,14 @@ Technologies Used:
 React: Frontend library for building user interfaces
 TheCocktailDB API(https://publicapis.io/the-cocktail-db-api): Provides access to a vast database of cocktail recipes
 
+Here's a video description showing the app:
+https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/ee02c345-1112-45ea-90a5-92587baeac1e
+
+Here's the overall layout of the page, I tried to keep it simple but fully functioning.
 ![pic1](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/0d8d1e28-0575-4cb1-b756-d55472970c9a)
 ![pic2](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/ba0112c1-5e23-4aef-9085-48773db978f9)
 
+Here's me trying out some drinks on the searchbar:
 ![pic3](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/5ddb90fb-60b4-48da-b8ea-de53a4b83220)
 
 ![pic4](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/671a1d11-0865-483b-955a-4ec30f39c7df)
@@ -24,6 +29,8 @@ TheCocktailDB API(https://publicapis.io/the-cocktail-db-api): Provides access to
 
 ![pic7](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/3ff423ef-099e-4ff7-a736-30711252e3f5)
 
+
+Here's trying out the randomize option:
 ![pic8](https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/9367286e-53fb-41a6-8aa1-be87423c3b70)
 
 
@@ -34,7 +41,7 @@ TheCocktailDB API(https://publicapis.io/the-cocktail-db-api): Provides access to
 
 
 
-https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/ee02c345-1112-45ea-90a5-92587baeac1e
+
 
 
 
