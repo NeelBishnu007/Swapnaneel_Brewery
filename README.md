@@ -13,7 +13,7 @@ Technologies Used:
 React: Frontend library for building user interfaces
 TheCocktailDB API(https://publicapis.io/the-cocktail-db-api): Provides access to a vast database of cocktail recipes
 
-Here's a video description showing the app:
+HERE'S THE VIDEO DESCRIPTION SHOWING THE APP:
 https://github.com/NeelBishnu007/Swapnaneel_Brewery/assets/142168105/ee02c345-1112-45ea-90a5-92587baeac1e
 
 Here's the overall layout of the page, I tried to keep it simple but fully functioning.
